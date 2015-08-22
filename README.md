@@ -1,3 +1,22 @@
+1. Rate today's workshop - scale 1 -10
+10
+
+2. Things from today that I liked.
+Really smooth guidance from Beth, everything was well explained
+
+3. Things from today that I would improve
+Some of the slides were out of date but that's about it.
+
+
+
+
+
+
+
+
+
+
+
 Unix & Git for Everyone (Portland, August 22, 2015)
 --------------------------------------------------
 
